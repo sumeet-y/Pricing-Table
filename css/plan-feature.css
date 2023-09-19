@@ -1,0 +1,24 @@
+.pricing-plan li{
+    text-align: left;
+    /* text-align: initial; */
+    /* text-align-last:left; */
+    margin: 0.2rem;
+    font-size: small;
+    
+    
+}
+ul{
+    background-color: rgba(211, 211, 211, 0.091);
+    /* border: 1px solid #8cc0de53; */
+}
+.plan-features{
+    margin: 1rem 1rem;
+    /* margin-top: 2rem; */
+    font-family: 'product sans';
+    color: grey;
+    
+}
+.icon{
+    color: green;
+    display: inline;
+}

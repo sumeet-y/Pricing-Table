@@ -1,0 +1,9 @@
+.pricing-container{
+    /* border: 2px solid black; */
+    display: flex;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+    /* background-color:#8cc0de53; */
+    
+}
