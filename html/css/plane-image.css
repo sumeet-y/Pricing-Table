@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+} 
+body {
+    font-family: 'Sono', sans-serif;
+    /* font-family: 'product sans'; */
+    background-color:#8cc0de53;
+  }
+li{
+    list-style: none;
+}
+@font-face {
+    font-family: 'product sans';
+    src: url(../product_sans_regular.ttf);
+}
+/* image section */
+.image{
+    height: 8rem;
+    width: auto;
+}
+.hr-line{
+    color: grey;
+    
+}
